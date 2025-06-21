@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minimarket/static/css/main.713f54a8.css",
+    "main.js": "/minimarket/static/js/main.b551968b.js",
+    "index.html": "/minimarket/index.html",
+    "main.713f54a8.css.map": "/minimarket/static/css/main.713f54a8.css.map",
+    "main.b551968b.js.map": "/minimarket/static/js/main.b551968b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.713f54a8.css",
+    "static/js/main.b551968b.js"
+  ]
+}
