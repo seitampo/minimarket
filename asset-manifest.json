@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/minimarket/static/css/main.713f54a8.css",
-    "main.js": "/minimarket/static/js/main.b551968b.js",
+    "main.css": "/minimarket/static/css/main.6db1dc56.css",
+    "main.js": "/minimarket/static/js/main.2f8584db.js",
     "index.html": "/minimarket/index.html",
-    "main.713f54a8.css.map": "/minimarket/static/css/main.713f54a8.css.map",
-    "main.b551968b.js.map": "/minimarket/static/js/main.b551968b.js.map"
+    "main.6db1dc56.css.map": "/minimarket/static/css/main.6db1dc56.css.map",
+    "main.2f8584db.js.map": "/minimarket/static/js/main.2f8584db.js.map"
   },
   "entrypoints": [
-    "static/css/main.713f54a8.css",
-    "static/js/main.b551968b.js"
+    "static/css/main.6db1dc56.css",
+    "static/js/main.2f8584db.js"
   ]
 }
